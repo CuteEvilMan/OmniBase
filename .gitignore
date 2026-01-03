@@ -1,0 +1,18 @@
+yaoqiu
+
+# Build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Compiled objects
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
